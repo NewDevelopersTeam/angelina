@@ -1,3 +1,7 @@
+<?php
+require 'vendor/autoload.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -32,7 +36,6 @@
   </head>
 
   <body>
-
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
